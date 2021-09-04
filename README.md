@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dragongaard
-- 👀 I’m interested in 
+- 👀 I’m interested in data
 - 🌱 I’m currently learning SQL
 - 📫 Reach me on twitter @eleemosynary
